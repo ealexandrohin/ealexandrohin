@@ -1,1 +1,1 @@
-> [502](https://ealexandrohin.github.io/)
+[![trueYellow](trueYellow.svg)](https://ealex.dev)
